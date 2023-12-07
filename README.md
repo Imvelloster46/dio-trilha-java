@@ -1,1 +1,1 @@
-# dio-trilha-java
+Repositório DIO para projetos e exercícios.
